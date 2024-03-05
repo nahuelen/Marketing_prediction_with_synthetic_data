@@ -1,0 +1,1 @@
+El presente proyecto es el desarrollo de un modelo supervisado de clasificacion que analiza el exito de una campaña de marketing. Como varios proyectos de exitos de campaña la variable objetivo se encuentra desbalanceada, para esto y teniendo buenos resultados, se generan datos sinteticos bajo Smote y redes generativas.
